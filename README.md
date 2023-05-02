@@ -15,6 +15,6 @@ Any alpha-numerical identifiers, such as student roll numbers, employee numbers 
 
 4. The script produces an output file **id-after-anon.csv**. This file has a mapping of the original IDs to randomly generated IDs. Save this file in a secure location, granting access to it on need-basis only.
 
-Wherever the identifiers are required to be shared, share the mapped random ID instead.
+Wherever the identifiers are required to be shared, share the mapped random IDs instead.
 
 See the samples directory for sample input and output files.
