@@ -15,5 +15,5 @@ codes = list(range(range_lower, range_upper))
 random.shuffle(codes)
 
 df.columns = ['ORIGINAL_ID']
-df['ANONYMIZED_ID'] = codes
+df['VIRTUAL_ID'] = codes
 df.to_csv('id-anon.csv',index=False)
